@@ -1,12 +1,45 @@
 .t1{
     color: crimson;
+    text-align: center;
 }
 .t2{
     color: coral;
+}
+.c1{
+    text-align: center;
+    color: #fffb00;
+}
+.c2{
+    text-align: justify;
+    color: chartreuse;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 header{
     text-align: center;
     background-color: black;
     border-style: double;
     border-block-color: red;
+}
+.b1{
+    border: 1px solid #fffb00; /*anchura, estilo y color borde*/
+    padding: 10px; /*espacio alrededor texto*/
+    background-color: #8b0808; /*color botón*/
+    color: #ffffff; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: uppercase; /*capitalización texto*/
+    font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+    border-radius: 50px; /*bordes redondos*/
+}
+body{
+    background-color:yellowgreen;
+}
+main{
+    background-color: black;
+    border-style: double;
+    border-block-color: red;
+}
+.i1{
+    float: left;
+    margin-top: 9%;
 }
