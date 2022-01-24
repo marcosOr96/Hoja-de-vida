@@ -3,10 +3,11 @@ header{
     padding: 1%;
     margin: 1%;
     text-align: center;
+    background-color: cornflowerblue;
 }
 img{
     float: left;
-    margin: 4%;
+    margin: 1%;
 }
 h4{
     text-align: right;
