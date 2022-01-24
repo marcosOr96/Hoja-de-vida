@@ -1,0 +1,12 @@
+.t1{
+    color: crimson;
+}
+.t2{
+    color: coral;
+}
+header{
+    text-align: center;
+    background-color: black;
+    border-style: double;
+    border-block-color: red;
+}
