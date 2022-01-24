@@ -1,0 +1,31 @@
+header{
+    border-style: solid;
+    padding: 1%;
+    margin: 1%;
+    text-align: center;
+}
+img{
+    float: left;
+    margin: 4%;
+}
+h4{
+    text-align: right;
+    line-height: 2px;
+}
+nav{
+    text-align: right;
+    margin: 2%;
+}
+a{
+    border-style: double;
+    padding: 1%;
+    background-color: turquoise;
+}
+main{
+    border-style:groove;
+    margin: 1%;
+    padding: 1%;
+}
+footer{
+    margin: 2%;
+}
